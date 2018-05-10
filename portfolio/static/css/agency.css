@@ -363,7 +363,7 @@ header.masthead .intro-text .intro-heading {
   /* Safari and Chrome */
   z-index: 1051;
   width: 1px;
-  height: 75px;
+  height: 45px;
   margin-left: 35px;
   /* IE 9 */
   -webkit-transform: rotate(45deg);
@@ -376,7 +376,7 @@ header.masthead .intro-text .intro-heading {
   /* Safari and Chrome */
   z-index: 1052;
   width: 1px;
-  height: 75px;
+  height: 20px;
   /* IE 9 */
   -webkit-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
